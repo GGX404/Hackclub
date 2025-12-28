@@ -2,7 +2,7 @@
 The BSD is a multifunctional Macropad designed to be a low cost, high function replacement to the expensive macropads currently found on the market.
 
 ## 3D Model
-<img src="photos/Macropad_Render.png" alt="MacroPad Render" width=500 />
+<img src="photos/Assembled.PNG" alt="MacroPad Render" width=500 />
 My model has 3 main parts:
 
 - Top Cover to hide PCB
